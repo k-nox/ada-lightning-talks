@@ -1,0 +1,36 @@
+/* sets font size to 1em so all items fit in a slide and changes background color*/
+.reveal {
+  font-size: 1.5em;
+  background-color: #282a36;
+}
+
+/* changes heading colors to better match dracula theme (community version) */
+.reveal h1 {
+  font-size: 5em;
+  color: #ff79c6;
+}
+.reveal h2 {
+  font-size: 5em;
+  color: #bd93f9;
+}
+.reveal h3 {
+  font-size: 4em;
+  color: #ff5555;
+}
+.reveal h4 {
+  font-size: 3em;
+  color: #ffb86c;
+}
+.reveal h5 {
+  font-size: 2em;
+  color: #50fa7b;
+}
+.reveal h6 {
+  font-size: 1.5em;
+  color: #8be9fd;
+}
+
+/* changes paragraph color to match community dracula theme */
+.reveal p {
+  color: #f8f8f2
+}
