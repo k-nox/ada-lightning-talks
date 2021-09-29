@@ -1,8 +1,8 @@
-# Markdown Lightning Talk
+# Ada Lightning Talks
 
-This repository holds the presentation for my first lightning talk at Ada Developer's Academy.
+This repository holds the presentations for my lightning talks at Ada Developer's Academy.
 
-To view the file as a set of slides, open up the repository as a vault in [Obsidian](https://obsidian.md/),
+To view the talks as a set of slides, open up the repository as a vault in [Obsidian](https://obsidian.md/),
 enable the [Slides plugin](https://help.obsidian.md/Plugins/Slides),
 and start the presentation.
 
